@@ -1,1 +1,1 @@
-CMakeFiles/pdi_code.dir/app/run.cpp.obj CMakeFiles/pdi_code.dir/src/Operation.cpp.obj
+CMakeFiles/pdi_code.dir/app/run.cpp.obj CMakeFiles/pdi_code.dir/src/ArithmeticOperations.cpp.obj CMakeFiles/pdi_code.dir/src/GrayscaleConverter.cpp.obj CMakeFiles/pdi_code.dir/src/Histogram.cpp.obj CMakeFiles/pdi_code.dir/src/IsolateByChannel.cpp.obj CMakeFiles/pdi_code.dir/src/Negative.cpp.obj CMakeFiles/pdi_code.dir/src/Thresholding.cpp.obj

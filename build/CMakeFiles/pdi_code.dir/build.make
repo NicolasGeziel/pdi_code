@@ -86,31 +86,116 @@ CMakeFiles/pdi_code.dir/app/run.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/pdi_code.dir/app/run.cpp.s"
 	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\nicol\pdi_code\app\run.cpp -o CMakeFiles\pdi_code.dir\app\run.cpp.s
 
-CMakeFiles/pdi_code.dir/src/Operation.cpp.obj: CMakeFiles/pdi_code.dir/flags.make
-CMakeFiles/pdi_code.dir/src/Operation.cpp.obj: CMakeFiles/pdi_code.dir/includes_CXX.rsp
-CMakeFiles/pdi_code.dir/src/Operation.cpp.obj: C:/Users/nicol/pdi_code/src/Operation.cpp
-CMakeFiles/pdi_code.dir/src/Operation.cpp.obj: CMakeFiles/pdi_code.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\nicol\pdi_code\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/pdi_code.dir/src/Operation.cpp.obj"
-	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pdi_code.dir/src/Operation.cpp.obj -MF CMakeFiles\pdi_code.dir\src\Operation.cpp.obj.d -o CMakeFiles\pdi_code.dir\src\Operation.cpp.obj -c C:\Users\nicol\pdi_code\src\Operation.cpp
+CMakeFiles/pdi_code.dir/src/ArithmeticOperations.cpp.obj: CMakeFiles/pdi_code.dir/flags.make
+CMakeFiles/pdi_code.dir/src/ArithmeticOperations.cpp.obj: CMakeFiles/pdi_code.dir/includes_CXX.rsp
+CMakeFiles/pdi_code.dir/src/ArithmeticOperations.cpp.obj: C:/Users/nicol/pdi_code/src/ArithmeticOperations.cpp
+CMakeFiles/pdi_code.dir/src/ArithmeticOperations.cpp.obj: CMakeFiles/pdi_code.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\nicol\pdi_code\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/pdi_code.dir/src/ArithmeticOperations.cpp.obj"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pdi_code.dir/src/ArithmeticOperations.cpp.obj -MF CMakeFiles\pdi_code.dir\src\ArithmeticOperations.cpp.obj.d -o CMakeFiles\pdi_code.dir\src\ArithmeticOperations.cpp.obj -c C:\Users\nicol\pdi_code\src\ArithmeticOperations.cpp
 
-CMakeFiles/pdi_code.dir/src/Operation.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/pdi_code.dir/src/Operation.cpp.i"
-	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\nicol\pdi_code\src\Operation.cpp > CMakeFiles\pdi_code.dir\src\Operation.cpp.i
+CMakeFiles/pdi_code.dir/src/ArithmeticOperations.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/pdi_code.dir/src/ArithmeticOperations.cpp.i"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\nicol\pdi_code\src\ArithmeticOperations.cpp > CMakeFiles\pdi_code.dir\src\ArithmeticOperations.cpp.i
 
-CMakeFiles/pdi_code.dir/src/Operation.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/pdi_code.dir/src/Operation.cpp.s"
-	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\nicol\pdi_code\src\Operation.cpp -o CMakeFiles\pdi_code.dir\src\Operation.cpp.s
+CMakeFiles/pdi_code.dir/src/ArithmeticOperations.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/pdi_code.dir/src/ArithmeticOperations.cpp.s"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\nicol\pdi_code\src\ArithmeticOperations.cpp -o CMakeFiles\pdi_code.dir\src\ArithmeticOperations.cpp.s
+
+CMakeFiles/pdi_code.dir/src/GrayscaleConverter.cpp.obj: CMakeFiles/pdi_code.dir/flags.make
+CMakeFiles/pdi_code.dir/src/GrayscaleConverter.cpp.obj: CMakeFiles/pdi_code.dir/includes_CXX.rsp
+CMakeFiles/pdi_code.dir/src/GrayscaleConverter.cpp.obj: C:/Users/nicol/pdi_code/src/GrayscaleConverter.cpp
+CMakeFiles/pdi_code.dir/src/GrayscaleConverter.cpp.obj: CMakeFiles/pdi_code.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\nicol\pdi_code\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/pdi_code.dir/src/GrayscaleConverter.cpp.obj"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pdi_code.dir/src/GrayscaleConverter.cpp.obj -MF CMakeFiles\pdi_code.dir\src\GrayscaleConverter.cpp.obj.d -o CMakeFiles\pdi_code.dir\src\GrayscaleConverter.cpp.obj -c C:\Users\nicol\pdi_code\src\GrayscaleConverter.cpp
+
+CMakeFiles/pdi_code.dir/src/GrayscaleConverter.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/pdi_code.dir/src/GrayscaleConverter.cpp.i"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\nicol\pdi_code\src\GrayscaleConverter.cpp > CMakeFiles\pdi_code.dir\src\GrayscaleConverter.cpp.i
+
+CMakeFiles/pdi_code.dir/src/GrayscaleConverter.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/pdi_code.dir/src/GrayscaleConverter.cpp.s"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\nicol\pdi_code\src\GrayscaleConverter.cpp -o CMakeFiles\pdi_code.dir\src\GrayscaleConverter.cpp.s
+
+CMakeFiles/pdi_code.dir/src/Histogram.cpp.obj: CMakeFiles/pdi_code.dir/flags.make
+CMakeFiles/pdi_code.dir/src/Histogram.cpp.obj: CMakeFiles/pdi_code.dir/includes_CXX.rsp
+CMakeFiles/pdi_code.dir/src/Histogram.cpp.obj: C:/Users/nicol/pdi_code/src/Histogram.cpp
+CMakeFiles/pdi_code.dir/src/Histogram.cpp.obj: CMakeFiles/pdi_code.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\nicol\pdi_code\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/pdi_code.dir/src/Histogram.cpp.obj"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pdi_code.dir/src/Histogram.cpp.obj -MF CMakeFiles\pdi_code.dir\src\Histogram.cpp.obj.d -o CMakeFiles\pdi_code.dir\src\Histogram.cpp.obj -c C:\Users\nicol\pdi_code\src\Histogram.cpp
+
+CMakeFiles/pdi_code.dir/src/Histogram.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/pdi_code.dir/src/Histogram.cpp.i"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\nicol\pdi_code\src\Histogram.cpp > CMakeFiles\pdi_code.dir\src\Histogram.cpp.i
+
+CMakeFiles/pdi_code.dir/src/Histogram.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/pdi_code.dir/src/Histogram.cpp.s"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\nicol\pdi_code\src\Histogram.cpp -o CMakeFiles\pdi_code.dir\src\Histogram.cpp.s
+
+CMakeFiles/pdi_code.dir/src/IsolateByChannel.cpp.obj: CMakeFiles/pdi_code.dir/flags.make
+CMakeFiles/pdi_code.dir/src/IsolateByChannel.cpp.obj: CMakeFiles/pdi_code.dir/includes_CXX.rsp
+CMakeFiles/pdi_code.dir/src/IsolateByChannel.cpp.obj: C:/Users/nicol/pdi_code/src/IsolateByChannel.cpp
+CMakeFiles/pdi_code.dir/src/IsolateByChannel.cpp.obj: CMakeFiles/pdi_code.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\nicol\pdi_code\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/pdi_code.dir/src/IsolateByChannel.cpp.obj"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pdi_code.dir/src/IsolateByChannel.cpp.obj -MF CMakeFiles\pdi_code.dir\src\IsolateByChannel.cpp.obj.d -o CMakeFiles\pdi_code.dir\src\IsolateByChannel.cpp.obj -c C:\Users\nicol\pdi_code\src\IsolateByChannel.cpp
+
+CMakeFiles/pdi_code.dir/src/IsolateByChannel.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/pdi_code.dir/src/IsolateByChannel.cpp.i"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\nicol\pdi_code\src\IsolateByChannel.cpp > CMakeFiles\pdi_code.dir\src\IsolateByChannel.cpp.i
+
+CMakeFiles/pdi_code.dir/src/IsolateByChannel.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/pdi_code.dir/src/IsolateByChannel.cpp.s"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\nicol\pdi_code\src\IsolateByChannel.cpp -o CMakeFiles\pdi_code.dir\src\IsolateByChannel.cpp.s
+
+CMakeFiles/pdi_code.dir/src/Negative.cpp.obj: CMakeFiles/pdi_code.dir/flags.make
+CMakeFiles/pdi_code.dir/src/Negative.cpp.obj: CMakeFiles/pdi_code.dir/includes_CXX.rsp
+CMakeFiles/pdi_code.dir/src/Negative.cpp.obj: C:/Users/nicol/pdi_code/src/Negative.cpp
+CMakeFiles/pdi_code.dir/src/Negative.cpp.obj: CMakeFiles/pdi_code.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\nicol\pdi_code\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/pdi_code.dir/src/Negative.cpp.obj"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pdi_code.dir/src/Negative.cpp.obj -MF CMakeFiles\pdi_code.dir\src\Negative.cpp.obj.d -o CMakeFiles\pdi_code.dir\src\Negative.cpp.obj -c C:\Users\nicol\pdi_code\src\Negative.cpp
+
+CMakeFiles/pdi_code.dir/src/Negative.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/pdi_code.dir/src/Negative.cpp.i"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\nicol\pdi_code\src\Negative.cpp > CMakeFiles\pdi_code.dir\src\Negative.cpp.i
+
+CMakeFiles/pdi_code.dir/src/Negative.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/pdi_code.dir/src/Negative.cpp.s"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\nicol\pdi_code\src\Negative.cpp -o CMakeFiles\pdi_code.dir\src\Negative.cpp.s
+
+CMakeFiles/pdi_code.dir/src/Thresholding.cpp.obj: CMakeFiles/pdi_code.dir/flags.make
+CMakeFiles/pdi_code.dir/src/Thresholding.cpp.obj: CMakeFiles/pdi_code.dir/includes_CXX.rsp
+CMakeFiles/pdi_code.dir/src/Thresholding.cpp.obj: C:/Users/nicol/pdi_code/src/Thresholding.cpp
+CMakeFiles/pdi_code.dir/src/Thresholding.cpp.obj: CMakeFiles/pdi_code.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\nicol\pdi_code\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/pdi_code.dir/src/Thresholding.cpp.obj"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pdi_code.dir/src/Thresholding.cpp.obj -MF CMakeFiles\pdi_code.dir\src\Thresholding.cpp.obj.d -o CMakeFiles\pdi_code.dir\src\Thresholding.cpp.obj -c C:\Users\nicol\pdi_code\src\Thresholding.cpp
+
+CMakeFiles/pdi_code.dir/src/Thresholding.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/pdi_code.dir/src/Thresholding.cpp.i"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\nicol\pdi_code\src\Thresholding.cpp > CMakeFiles\pdi_code.dir\src\Thresholding.cpp.i
+
+CMakeFiles/pdi_code.dir/src/Thresholding.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/pdi_code.dir/src/Thresholding.cpp.s"
+	C:\msys64\ucrt64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\nicol\pdi_code\src\Thresholding.cpp -o CMakeFiles\pdi_code.dir\src\Thresholding.cpp.s
 
 # Object files for target pdi_code
 pdi_code_OBJECTS = \
 "CMakeFiles/pdi_code.dir/app/run.cpp.obj" \
-"CMakeFiles/pdi_code.dir/src/Operation.cpp.obj"
+"CMakeFiles/pdi_code.dir/src/ArithmeticOperations.cpp.obj" \
+"CMakeFiles/pdi_code.dir/src/GrayscaleConverter.cpp.obj" \
+"CMakeFiles/pdi_code.dir/src/Histogram.cpp.obj" \
+"CMakeFiles/pdi_code.dir/src/IsolateByChannel.cpp.obj" \
+"CMakeFiles/pdi_code.dir/src/Negative.cpp.obj" \
+"CMakeFiles/pdi_code.dir/src/Thresholding.cpp.obj"
 
 # External object files for target pdi_code
 pdi_code_EXTERNAL_OBJECTS =
 
 pdi_code.exe: CMakeFiles/pdi_code.dir/app/run.cpp.obj
-pdi_code.exe: CMakeFiles/pdi_code.dir/src/Operation.cpp.obj
+pdi_code.exe: CMakeFiles/pdi_code.dir/src/ArithmeticOperations.cpp.obj
+pdi_code.exe: CMakeFiles/pdi_code.dir/src/GrayscaleConverter.cpp.obj
+pdi_code.exe: CMakeFiles/pdi_code.dir/src/Histogram.cpp.obj
+pdi_code.exe: CMakeFiles/pdi_code.dir/src/IsolateByChannel.cpp.obj
+pdi_code.exe: CMakeFiles/pdi_code.dir/src/Negative.cpp.obj
+pdi_code.exe: CMakeFiles/pdi_code.dir/src/Thresholding.cpp.obj
 pdi_code.exe: CMakeFiles/pdi_code.dir/build.make
 pdi_code.exe: C:/msys64/ucrt64/lib/libopencv_gapi.dll.a
 pdi_code.exe: C:/msys64/ucrt64/lib/libopencv_stitching.dll.a
@@ -173,7 +258,7 @@ pdi_code.exe: C:/msys64/ucrt64/lib/libopencv_core.dll.a
 pdi_code.exe: CMakeFiles/pdi_code.dir/linkLibs.rsp
 pdi_code.exe: CMakeFiles/pdi_code.dir/objects1.rsp
 pdi_code.exe: CMakeFiles/pdi_code.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\nicol\pdi_code\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable pdi_code.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\nicol\pdi_code\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable pdi_code.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\pdi_code.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

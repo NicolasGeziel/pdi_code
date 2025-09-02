@@ -152,29 +152,149 @@ app/run.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/app/run.cpp.s
 .PHONY : app/run.cpp.s
 
-src/Operation.obj: src/Operation.cpp.obj
-.PHONY : src/Operation.obj
+src/ArithmeticOperations.obj: src/ArithmeticOperations.cpp.obj
+.PHONY : src/ArithmeticOperations.obj
 
 # target to build an object file
-src/Operation.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/src/Operation.cpp.obj
-.PHONY : src/Operation.cpp.obj
+src/ArithmeticOperations.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/src/ArithmeticOperations.cpp.obj
+.PHONY : src/ArithmeticOperations.cpp.obj
 
-src/Operation.i: src/Operation.cpp.i
-.PHONY : src/Operation.i
+src/ArithmeticOperations.i: src/ArithmeticOperations.cpp.i
+.PHONY : src/ArithmeticOperations.i
 
 # target to preprocess a source file
-src/Operation.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/src/Operation.cpp.i
-.PHONY : src/Operation.cpp.i
+src/ArithmeticOperations.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/src/ArithmeticOperations.cpp.i
+.PHONY : src/ArithmeticOperations.cpp.i
 
-src/Operation.s: src/Operation.cpp.s
-.PHONY : src/Operation.s
+src/ArithmeticOperations.s: src/ArithmeticOperations.cpp.s
+.PHONY : src/ArithmeticOperations.s
 
 # target to generate assembly for a file
-src/Operation.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/src/Operation.cpp.s
-.PHONY : src/Operation.cpp.s
+src/ArithmeticOperations.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/src/ArithmeticOperations.cpp.s
+.PHONY : src/ArithmeticOperations.cpp.s
+
+src/GrayscaleConverter.obj: src/GrayscaleConverter.cpp.obj
+.PHONY : src/GrayscaleConverter.obj
+
+# target to build an object file
+src/GrayscaleConverter.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/src/GrayscaleConverter.cpp.obj
+.PHONY : src/GrayscaleConverter.cpp.obj
+
+src/GrayscaleConverter.i: src/GrayscaleConverter.cpp.i
+.PHONY : src/GrayscaleConverter.i
+
+# target to preprocess a source file
+src/GrayscaleConverter.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/src/GrayscaleConverter.cpp.i
+.PHONY : src/GrayscaleConverter.cpp.i
+
+src/GrayscaleConverter.s: src/GrayscaleConverter.cpp.s
+.PHONY : src/GrayscaleConverter.s
+
+# target to generate assembly for a file
+src/GrayscaleConverter.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/src/GrayscaleConverter.cpp.s
+.PHONY : src/GrayscaleConverter.cpp.s
+
+src/Histogram.obj: src/Histogram.cpp.obj
+.PHONY : src/Histogram.obj
+
+# target to build an object file
+src/Histogram.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/src/Histogram.cpp.obj
+.PHONY : src/Histogram.cpp.obj
+
+src/Histogram.i: src/Histogram.cpp.i
+.PHONY : src/Histogram.i
+
+# target to preprocess a source file
+src/Histogram.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/src/Histogram.cpp.i
+.PHONY : src/Histogram.cpp.i
+
+src/Histogram.s: src/Histogram.cpp.s
+.PHONY : src/Histogram.s
+
+# target to generate assembly for a file
+src/Histogram.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/src/Histogram.cpp.s
+.PHONY : src/Histogram.cpp.s
+
+src/IsolateByChannel.obj: src/IsolateByChannel.cpp.obj
+.PHONY : src/IsolateByChannel.obj
+
+# target to build an object file
+src/IsolateByChannel.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/src/IsolateByChannel.cpp.obj
+.PHONY : src/IsolateByChannel.cpp.obj
+
+src/IsolateByChannel.i: src/IsolateByChannel.cpp.i
+.PHONY : src/IsolateByChannel.i
+
+# target to preprocess a source file
+src/IsolateByChannel.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/src/IsolateByChannel.cpp.i
+.PHONY : src/IsolateByChannel.cpp.i
+
+src/IsolateByChannel.s: src/IsolateByChannel.cpp.s
+.PHONY : src/IsolateByChannel.s
+
+# target to generate assembly for a file
+src/IsolateByChannel.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/src/IsolateByChannel.cpp.s
+.PHONY : src/IsolateByChannel.cpp.s
+
+src/Negative.obj: src/Negative.cpp.obj
+.PHONY : src/Negative.obj
+
+# target to build an object file
+src/Negative.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/src/Negative.cpp.obj
+.PHONY : src/Negative.cpp.obj
+
+src/Negative.i: src/Negative.cpp.i
+.PHONY : src/Negative.i
+
+# target to preprocess a source file
+src/Negative.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/src/Negative.cpp.i
+.PHONY : src/Negative.cpp.i
+
+src/Negative.s: src/Negative.cpp.s
+.PHONY : src/Negative.s
+
+# target to generate assembly for a file
+src/Negative.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/src/Negative.cpp.s
+.PHONY : src/Negative.cpp.s
+
+src/Thresholding.obj: src/Thresholding.cpp.obj
+.PHONY : src/Thresholding.obj
+
+# target to build an object file
+src/Thresholding.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/src/Thresholding.cpp.obj
+.PHONY : src/Thresholding.cpp.obj
+
+src/Thresholding.i: src/Thresholding.cpp.i
+.PHONY : src/Thresholding.i
+
+# target to preprocess a source file
+src/Thresholding.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/src/Thresholding.cpp.i
+.PHONY : src/Thresholding.cpp.i
+
+src/Thresholding.s: src/Thresholding.cpp.s
+.PHONY : src/Thresholding.s
+
+# target to generate assembly for a file
+src/Thresholding.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pdi_code.dir\build.make CMakeFiles/pdi_code.dir/src/Thresholding.cpp.s
+.PHONY : src/Thresholding.cpp.s
 
 # Help Target
 help:
@@ -188,9 +308,24 @@ help:
 	@echo ... app/run.obj
 	@echo ... app/run.i
 	@echo ... app/run.s
-	@echo ... src/Operation.obj
-	@echo ... src/Operation.i
-	@echo ... src/Operation.s
+	@echo ... src/ArithmeticOperations.obj
+	@echo ... src/ArithmeticOperations.i
+	@echo ... src/ArithmeticOperations.s
+	@echo ... src/GrayscaleConverter.obj
+	@echo ... src/GrayscaleConverter.i
+	@echo ... src/GrayscaleConverter.s
+	@echo ... src/Histogram.obj
+	@echo ... src/Histogram.i
+	@echo ... src/Histogram.s
+	@echo ... src/IsolateByChannel.obj
+	@echo ... src/IsolateByChannel.i
+	@echo ... src/IsolateByChannel.s
+	@echo ... src/Negative.obj
+	@echo ... src/Negative.i
+	@echo ... src/Negative.s
+	@echo ... src/Thresholding.obj
+	@echo ... src/Thresholding.i
+	@echo ... src/Thresholding.s
 .PHONY : help
 
 
